@@ -2,7 +2,7 @@
 ## beer.status()
 by [Valerie Kraucunas](https://www.linkedin.com/in/vkraucunas/)
 
-###[Deployed Application](https://beerstatus-vkraucunas.firebaseapp.com/)
+### [Deployed Application](https://beerstatus-vkraucunas.firebaseapp.com/)
 
 ### Technologies Used
 - React

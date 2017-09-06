@@ -22,9 +22,11 @@ Node version used for development: v7.8.0
 
 ### Challenges I Faced
 1. I typically get tripped up in the "setting up the build" step. This time I found several articles that addressed my questions as concerns as I went.
+  - I read tutorials/articles for deploying a create-react-app to Firebase, adding CSS modules, having global color variables set for styles,
+1. I don't typically support validation on the client, but because I was working specifically on a client and wanted to show I was thinking about validation, there is light validation on the add a beer form.
 
 ### Additional Steps
-1. I selected a bottlecap svg from [The Noun Project](https://thenounproject.com/search/?q=beer&i=11779), it was designed by Massimo Ippolito, IT
+1. I selected a bottlecap svg from [The Noun Project](https://thenounproject.com/search/?q=beer&i=11779), it was designed by Massimo Ippolito, IT. Hover on it on the page for a little whimsy.
 1. I used Coolors to select a color scheme for the project
 
 ### Endpoints
